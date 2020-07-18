@@ -139,6 +139,10 @@ To access the hundreds of pieces of information you can use 3 commands<br>
 <td style="text-align:left">Enchant</td>
 <td style="text-align:left">Translate your text into enchanting script.</td>
 </tr>
+  <tr>
+<td style="text-align:left">Fact</td>
+<td style="text-align:left">Displays a random fact about minecraft</td>
+</tr>
 
 </tbody>
 </table>
