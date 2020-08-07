@@ -114,7 +114,30 @@ To access the hundreds of pieces of information you can use 3 commands<br>
 <td style="text-align:left">Status</td>
 <td style="text-align:left">Displays Information about specified server</td>
 </tr>
-
+    <tr>
+<td style="text-align:left">NewVersion</td>
+<td style="text-align:left">Displays Information about the new major update</td>
+</tr>
+  <tr>
+<td style="text-align:left">Colourcodes</td>
+<td style="text-align:left">Displays Information about the formatting codes</td>
+</tr>
+    <tr>
+<td style="text-align:left">Account</td>
+<td style="text-align:left">Displays your Vote/Partnership Status, Linked Accounts/servers etc.</td>
+</tr>
+      <tr>
+<td style="text-align:left">Link</td>
+<td style="text-align:left">Links your IGN to your discord account(For show only)</td>
+</tr>
+      <tr>
+<td style="text-align:left">Serverlink</td>
+<td style="text-align:left">Links a minecraft server to your account(For show only)</td>
+</tr>
+      <tr>
+<td style="text-align:left">Serverlogo</td>
+<td style="text-align:left">Displays logo of provided IP</td>
+</tr>
 </tbody>
 </table>
 </details><br>
