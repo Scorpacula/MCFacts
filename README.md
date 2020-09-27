@@ -19,7 +19,7 @@
 </nav>  
 
   
-<h2>Features</h2>
+<h2>Features</h2>  
 * 🤖 **Core Commands such as Partners, Vote, Invite and More!**  
   
 * ℹ️ **Information on anything from Mobs to Effects to Advancements**  
@@ -37,5 +37,4 @@
 
 
 <h1>Widgets</h1>
-https://botsfordiscord.com/api
-/bot/712808436588347443/widget
+https://botsfordiscord.com/api/bot/712808436588347443/widget
