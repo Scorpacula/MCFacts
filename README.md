@@ -37,4 +37,7 @@
 
 
 <h1>Widgets</h1>
-https://botsfordiscord.com/api/bot/712808436588347443/widget
+<a href="https://botsfordiscord.com/bpt/712808436588347443" >
+  <img src="https://botsfordiscord.com/api/bot/712808436588347443/widget" alt="MCFacts" />
+</a>
+
