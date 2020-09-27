@@ -17,11 +17,9 @@
   <a style="font-weight:bold" href="https://bit.ly/addmcfacts">Add to your Server</a> |
   <a style="font-weight:bold" href="https://discord.gg/sxDtd43">Join the support server!</a>
 </nav>  
-| **MCFacts** |  
-The perfect minecraft themed bot for any community server big or small  
-------------------------------------------------------------------  
+
   
-**Here is my features:**  
+<h2>Features</h2>
 * 🤖 **Core Commands such as Partners, Vote, Invite and More!**  
   
 * ℹ️ **Information on anything from Mobs to Effects to Advancements**  
