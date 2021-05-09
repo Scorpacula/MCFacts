@@ -19,21 +19,34 @@
 </nav>  
 
   
-<h2>Features</h2>  
-* 🤖 **Core Commands such as Partners, Vote, Invite and More!**  
-  
-* ℹ️ **Information on anything from Mobs to Effects to Advancements**  
-  
-* 🛠️ **Utility Commands such as Server Status, Account/Server Linking and More!**  
-  
-* 📊 **Statistics on the most popular servers from Hypixel to HiveMC!**  
-  
-------------------------------------------------------------------  
-  
-**Add this bot to your server:** https://discord.com/oauth2/authorize?client_id=712808436588347443&scope=bot&permissions=2048  
-**Support Server:** https://discord.gg/sxDtd43  
+```╭─────╮
+**MCFACTS**
+╰─────╯
 
-------------------------------------------------------------------
+> Invite the **MCFacts** bot to your __server__ today to enjoy **__plenty__** of interactive minecraft content **!!!** You can use the bot to discover information on almost **__everything minecraft__** and get live updates __directly__ from the **Minecraft Twitter Account**.
+╭─────╮
+**FEATURES**
+╰─────╯
+> • Look after your **own** virtual pet *!*
+> • Relax to the chill sounds of music discs.
+> • Real-time bot updates and __new features__.
+> • Challenge your knowledge with the quiz command *!*
+> • Learn about everything to do with Minecraft with our information module.
+> • Receive updates from the official Minecraft Twitter Account as soon as they have been published.
+> • Join a bustling community of 244 guilds and counting *!*
+
+╭─────╮
+**INVITE NOW**
+╰─────╯
+> x Invite: [ https://mcfacts.xyz/invite ]
+
+╭─────╮
+ **OTHER**
+╰─────╯
+> × Vote: [ https://mcfacts.xyz/vote ]
+> × Website: [ https://mcfacts.xyz ]
+
+[ Banner: https://mcfacts.xyz/Images/animatedbanner.gif ]```
 
 
 <h1>Widgets</h1>
